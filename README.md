@@ -1,2 +1,2 @@
 # ObserveDesingPattern
-It is a sample behavioral design pattern use study to improve the areas that were produced in a live session but that I saw missing.
+The Observer design pattern is a behavioral design pattern that allows other objects to observe and respond when the state of an object changes
