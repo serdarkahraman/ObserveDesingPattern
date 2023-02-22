@@ -4,5 +4,5 @@ The Observer design pattern is a behavioral design pattern that allows other obj
 # Example 
 - In this example the Player class implements the IPlayer interface.
 - Observer class Referee implements the IReferee interface.
-- The player includes methods for registering, removing and updating watchers.
+- The player includes methods for registering and updating watchers.
 - The players movement is calculated and the direction, angle and force values are updated. These values are taken by the referee and printed on the screen.
